@@ -66,6 +66,11 @@ section{
    height: calc(100vh - 80px);
 }
 
+
+.container{
+   margin-top: 80px;
+}
+
 @media (max-width: 952px){
    .enlace{
        padding-left: 20px;
